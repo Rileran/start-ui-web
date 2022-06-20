@@ -314,3 +314,4 @@ To create React forms, there is a lot of libraries out there.
 Composable, headless & with built-in multi steps.
 
 [GitHub](https://github.com/ivan-dalmet/formiz) · [License MIT](https://github.com/ivan-dalmet/formiz/blob/master/LICENSE)
+
